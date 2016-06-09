@@ -1,2 +1,2 @@
 # Dom
-Opis domu
+Opis mojego domu
