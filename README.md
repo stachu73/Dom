@@ -1,6 +1,6 @@
 # Dom
 Opis mojego domu.
-W drewnie
+W drewnie.
 jeden
 dwa
 
