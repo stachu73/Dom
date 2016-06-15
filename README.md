@@ -1,3 +1,6 @@
 # Dom
-Opis mojego domu
+Opis mojego domu.
 W drewnie
+jeden
+dwa
+
