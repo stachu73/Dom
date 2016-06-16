@@ -1,1 +1,2 @@
-To będzie kuchnia
+To będzie kuchnia.
+Nowa linia w kuchni.
