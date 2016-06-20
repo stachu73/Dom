@@ -1,3 +1,4 @@
 coś tam jest po scaleniu
+serwer
 Dodałem drugą linię
 trzecia linia
